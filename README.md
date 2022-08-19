@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @KAUANINHA
-- 👀 I’m interested in aprender mais sobre tecnologias...
-- 🌱 I’m currently learning  o github
+- 👋 oii eu sou  @KAUANINHA
+- 👀 estou interessada em aprender mais sobre tecnologias...
 
 <!---
 KAUANINHA/KAUANINHA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
